@@ -1,5 +1,7 @@
 -- http://www.haskell.org/haskellwiki/99_questions/1_to_10
 
+module OneToTen where
+
 -- >>> myLast [1,2,3,4]
 -- 4
 -- >>> myLast ['x','y','z']
